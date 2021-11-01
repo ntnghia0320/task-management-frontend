@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a622b3bd974f915c9d1a3f2ddf81531",
+    "revision": "847cebd85e0ae2a890f3e4dd234b3d76",
     "url": "https://ntnghia0320.github.io/task-management-frontend\n/index.html"
   },
   {
-    "revision": "3fbb35667f3690bde9c2",
+    "revision": "d6e813bc147f4090f6ac",
     "url": "https://ntnghia0320.github.io/task-management-frontend\n/static/css/main.5ac26d30.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/2.074ed3e4.chunk.js"
   },
   {
-    "revision": "3fbb35667f3690bde9c2",
-    "url": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/main.e8c7abf8.chunk.js"
+    "revision": "d6e813bc147f4090f6ac",
+    "url": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/main.e1022a87.chunk.js"
   },
   {
     "revision": "edb4b8edb9b193f899c1",

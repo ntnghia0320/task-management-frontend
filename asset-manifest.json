@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://ntnghia0320.github.io/task-management-frontend\n/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/main.e8c7abf8.chunk.js",
-    "main.js.map": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/main.e8c7abf8.chunk.js.map",
+    "main.js": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/main.e1022a87.chunk.js",
+    "main.js.map": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/main.e1022a87.chunk.js.map",
     "runtime~main.js": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/runtime~main.e3f78404.js",
     "runtime~main.js.map": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/runtime~main.e3f78404.js.map",
     "static/js/2.074ed3e4.chunk.js": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/2.074ed3e4.chunk.js",
     "static/js/2.074ed3e4.chunk.js.map": "https://ntnghia0320.github.io/task-management-frontend\n/static/js/2.074ed3e4.chunk.js.map",
     "index.html": "https://ntnghia0320.github.io/task-management-frontend\n/index.html",
-    "precache-manifest.f2fc2f4655cba8cb9c582cf640924cca.js": "https://ntnghia0320.github.io/task-management-frontend\n/precache-manifest.f2fc2f4655cba8cb9c582cf640924cca.js",
+    "precache-manifest.6a9d61f7914b031c3cd4e05fa1099c94.js": "https://ntnghia0320.github.io/task-management-frontend\n/precache-manifest.6a9d61f7914b031c3cd4e05fa1099c94.js",
     "service-worker.js": "https://ntnghia0320.github.io/task-management-frontend\n/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://ntnghia0320.github.io/task-management-frontend\n/static/css/main.5ac26d30.chunk.css.map"
   }
